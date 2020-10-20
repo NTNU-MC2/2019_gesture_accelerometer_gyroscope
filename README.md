@@ -1,6 +1,4 @@
 # 2019_gesture_accelerometer_gyroscope
-
-[TOC]
 # 1. Gesture Data Collection
 ## 1.1 Flow Chart
 ![](https://i.imgur.com/57lkSB0.png)
