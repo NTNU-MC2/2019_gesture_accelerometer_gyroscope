@@ -14,7 +14,7 @@
 ![](https://i.imgur.com/rpzuMJZ.png)
 ### 2.1.2 Gesture Data Distributed
 ![](https://i.imgur.com/UkjuwlH.png)
-==Total Gesture Data is 1100==
+**Total Gesture Data is 1100**
 ## 2.2 Testing Data Set
 ### 2.2.1 Gesture Combination(1)
 Only one gesture
@@ -79,6 +79,6 @@ Four gestures combination
 ### 2.2.5 Gesture Combination Data 
 
 ![](https://i.imgur.com/Yat22B6.png)
-==Total Gesture Data : 3404==
+**Total Gesture Data : 3404**
 
-==Total File : 1561==
+**Total File : 1561**
